@@ -200,3 +200,5 @@ buildNumber.properties
 # End of https://www.gitignore.io/api/java,maven,eclipse,intellij
 /Java_NIO.iml
 .idea/
+/bin/
+/target/
